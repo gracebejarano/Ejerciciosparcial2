@@ -1,0 +1,13 @@
+name = ""
+lastname = ""
+age = 0
+phone = 
+address = ""
+email = ""
+opcion = ""
+
+print("bienvenido al sistema de registro de cliente")
+print("---------MENU PRINCIPAL---------")
+print("1. Registrar cliente")
+print()
+ 
